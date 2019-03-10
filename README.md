@@ -1,3 +1,4 @@
 # leetcode
-- Two Sum: Java
-- Add Two Numbers: Java
+- Two Sum: twoSum: Java
+- Add Two Numbers: addTwoNumbers: Java
+- Longest Substring Without Repeating Characters: lengthOfLongestSubstring: Java

@@ -1,4 +1,6 @@
-// Map contains <target - value, index>
+/**
+ * mem = <target - value, first index of value>
+ */
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
