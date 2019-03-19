@@ -5,3 +5,4 @@
 - Median of Two Sorted Arrays: findMedianSortedArrays: Java
 - Longest Palindrome Substring: longestPalindrome: Java
 - ZigZag Conversion: zigZagConvert: Java
+- Reverse Integer: reverseInteger: Golang
