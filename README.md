@@ -8,3 +8,5 @@
 - Reverse Integer: reverseInteger: Golang
 - String to Integer (atoi): myAtoi: Golang
 - Palindrome Number: isPalindrome: Golang
+
+- Container With Most Water: maxAreaWater: Golang
