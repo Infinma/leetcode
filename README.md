@@ -6,3 +6,5 @@
 - Longest Palindrome Substring: longestPalindrome: Java
 - ZigZag Conversion: zigZagConvert: Java
 - Reverse Integer: reverseInteger: Golang
+- String to Integer (atoi): myAtoi: Golang
+- Palindrome Number: isPalindrome: Golang
