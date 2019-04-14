@@ -15,3 +15,4 @@
 - Longest Common Prefix: longestCommonPrefix: Golang
 - 3Sum: 3Sum: Golang
 - Letter Combinations of a Phone Number: letterCombinations: Golang
+- Remove Nth Node From End of List: removeNthFromEnd: Golang
